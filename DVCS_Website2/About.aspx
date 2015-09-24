@@ -3,5 +3,5 @@
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <h2><%: Title %>.</h2>
     <h3>Product Discription heading goes HERE</h3>
-    <p>Use this area to provide additional information.</p>
+    <p>Product discrpiton will go in this paragraph.</p>
 </asp:Content>
